@@ -21,7 +21,7 @@ A powerful Blogging platform built with Laravel and PostgreSQL Database.
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/your-username/blog-app.git
+   git clone https://github.com/Armanidrisi/laravel_blog
    cd blog-app
    composer install
    ```
